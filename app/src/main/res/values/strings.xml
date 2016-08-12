@@ -4,4 +4,5 @@
     <string name="title_activity_linear">LinearActivity</string>
     <string name="title_activity_table">TableActivity</string>
     <string name="title_activity_place_order">PlaceOrder</string>
+    <string name="title_activity_linear2">LinearActivity2</string>
 </resources>
